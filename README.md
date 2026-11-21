@@ -11,4 +11,4 @@ ReMobile is an AI-based system to reduce e-waste. It identifies old mobile phone
 - Python, HTML, CSS, JavaScript, React, MySQL
 
 ## Developed By
-Vidhi Patil - Final Year CSE Student
+Vidhi Wakode - Final Year CSE Student
